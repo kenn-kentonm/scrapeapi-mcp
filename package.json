@@ -1,6 +1,6 @@
 {
   "name": "scrapeapi-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for ScrapeAPI — web scraping tools for Claude and LLM agents",
   "main": "dist/mcp-server.js",
   "bin": {
@@ -19,7 +19,16 @@
     "@types/node": "^20.0.0",
     "ts-node": "^10.9.0"
   },
-  "keywords": ["mcp", "scraping", "web-scraper", "llm", "claude", "anthropic"],
+  "keywords": [
+    "mcp",
+    "scraping",
+    "web-scraper",
+    "llm",
+    "claude",
+    "anthropic"
+  ],
   "license": "MIT",
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  }
 }
