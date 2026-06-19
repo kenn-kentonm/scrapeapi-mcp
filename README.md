@@ -15,7 +15,7 @@ Web scraping tools for Claude and other MCP-compatible LLM agents.
 
 ## Setup in Claude Desktop
 
-1. Get your API key at **https://api.scrapeapi.dev**
+1. Get your API key at **https://getscrapeapi.com**
 
 2. Open your Claude Desktop config file:
    - **Mac:** `~/Library/Application Support/Claude/claude_desktop_config.json`
@@ -57,6 +57,6 @@ Once connected, just ask Claude:
 
 ## Links
 
-- API Docs: https://api.scrapeapi.dev/docs
-- Pricing: https://api.scrapeapi.dev/#pricing
-- Support: hello@scrapeapi.dev
+- API Docs: https://getscrapeapi.com/docs
+- Pricing: https://getscrapeapi.com/#pricing
+- Support: hello@getscrapeapi.com

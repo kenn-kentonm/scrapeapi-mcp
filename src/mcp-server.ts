@@ -14,7 +14,7 @@ import {
   Tool,
 } from "@modelcontextprotocol/sdk/types.js";
 
-const API_BASE = process.env.SCRAPEAPI_BASE_URL ?? "https://api.scrapeapi.dev";
+const API_BASE = process.env.SCRAPEAPI_BASE_URL ?? "https://getscrapeapi.com";
 const API_KEY = process.env.SCRAPEAPI_KEY ?? "";
 
 if (!API_KEY) {
@@ -397,7 +397,7 @@ async function handleListDatasets(args: any) {
     lines.push("");
   });
 
-  lines.push(`Visit https://api.scrapeapi.dev/datasets to download.`);
+  lines.push(`Visit https://getscrapeapi.com/datasets to download.`);
   return lines.join("\n");
 }
 

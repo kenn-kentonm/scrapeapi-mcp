@@ -1,5 +1,5 @@
 {
-  "name": "@scrapeapi/mcp",
+  "name": "scrapeapi-mcp",
   "version": "1.0.0",
   "description": "MCP server for ScrapeAPI — web scraping tools for Claude and LLM agents",
   "main": "dist/mcp-server.js",
